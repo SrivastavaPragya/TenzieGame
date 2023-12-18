@@ -1,0 +1,18 @@
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin:0;
+  background-color: #0B2434;
+  padding: 40px;
+}
+
+main{
+  background-color: #F5F5F5;
+  height: 90vh;
+  border-radius: 15px;
+  max-width: 900px;
+  margin-left: 300px;
+}
